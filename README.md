@@ -19,7 +19,7 @@ Si vous désirez obtenir le même site que la [démo](http://xmas.proto.tips/) v
 3 pages :
 - Homepage
 - A propos de nous
-- Politique de confidentialité (normalement cette page existe déjà en brouillon, vous devez juste la publiée)
+- Politique de confidentialité (normalement cette page existe déjà en brouillon, vous devez juste la publier)
 
 4 catégories d'article :
 - News
@@ -28,4 +28,9 @@ Si vous désirez obtenir le même site que la [démo](http://xmas.proto.tips/) v
 - Agenda
 
 3, 4 articles par catégorie
+
+3 menus :
+- Mon menu principal (lié à l'emplacement "Position principale")
+- Mon menu sommital (lié à l'emplacement "Position sommitale")
+- Mon menu de pied de page (lié à l'emplacement "Position en pied de page")
 
