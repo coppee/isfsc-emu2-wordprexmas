@@ -4,7 +4,7 @@ Il s'agit du thème vu en classe, un peu pimpé et commenté.
 
 [Voir la démo.](http://xmas.proto.tips/)
 
-![GDPR-cookie in action](github/screenshots/xmas.png)
+![HoHoHo](github/screenshots/xmas.png)
 
 ## Installation du thème
 
