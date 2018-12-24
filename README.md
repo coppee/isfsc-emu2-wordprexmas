@@ -16,21 +16,21 @@ Il s'agit du thème vu en classe, un peu pimpé et commenté.
 
 Si vous désirez obtenir le même site que la [démo](http://xmas.proto.tips/) vous allez devoir créer du contenu. 
 
-3 pages :
-- Homepage
-- A propos de nous
-- Politique de confidentialité (normalement cette page existe déjà en brouillon, vous devez juste la publier)
+- 3 pages :
+  - Homepage
+  -  A propos de nous
+  - Politique de confidentialité (normalement cette page existe déjà en brouillon, vous devez juste la publier)
 
-4 catégories d'article :
-- News
-- FAQ
-- Slider
-- Agenda
+- 4 catégories d'article :
+  - News
+  - FAQ
+  - Slider
+  - Agenda
 
-3, 4 articles par catégorie
+- 3, 4 articles par catégorie
 
-3 menus :
-- Mon menu principal (lié à l'emplacement "Position principale")
-- Mon menu sommital (lié à l'emplacement "Position sommitale")
-- Mon menu de pied de page (lié à l'emplacement "Position en pied de page")
+- 3 menus :
+  - Mon menu principal (lié à l'emplacement "Position principale")
+  - Mon menu sommital (lié à l'emplacement "Position sommitale")
+  - Mon menu de pied de page (lié à l'emplacement "Position en pied de page")
 
