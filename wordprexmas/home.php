@@ -2,7 +2,7 @@
 
 <main role="main">
 
-  <section class="Homepage__slider">
+  <section class="Homepage__slider" id="slider">
     <div id="js-carousel" class="carousel slide" data-ride="carousel">
       <div class="carousel-inner">
 		  <?php
@@ -36,7 +36,7 @@
     </div>
   </section>
 
-  <section class="jumbotron text-center">
+  <section class="jumbotron text-center" id="jumbotron">
     <div class="container">
 	    <?php
       // On récupère la "page" ayant "homepage" comme slug.
@@ -57,7 +57,7 @@
     </div>
   </section>
 
-  <section class="py-5 bg-light">
+  <section class="py-5 bg-light" id="agenda">
     <div class="px-3 py-3 pt-md-5 pb-md-4 mx-auto text-center">
       <h1 class="display-4">Agenda</h1>
     </div>
@@ -112,7 +112,7 @@
     </div>
   </section>
 
-  <section class="py-5">
+  <section class="py-5" id="faq">
     <div class="px-3 py-3 pt-md-5 pb-md-4 mx-auto text-center">
       <h1 class="display-4">FAQ</h1>
     </div>
