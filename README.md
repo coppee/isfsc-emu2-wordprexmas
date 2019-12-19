@@ -10,9 +10,9 @@ Il s'agit du thème vu en classe, un peu pimpé et commenté.
 2. Dézipper le fichier
 3. Glisser/Déposer le dossier /wordprexmas dans le dossier /wp-content/themes d'une installation WP
 
-## Création du contenu [optionel]
+## Création du contenu
 
-Si vous désirez obtenir le même site que la [démo](http://xmas.proto.tips/) vous allez devoir créer du contenu. 
+Vous allez devoir créer ce contenu : 
 
 - 3 pages :
   - Homepage
