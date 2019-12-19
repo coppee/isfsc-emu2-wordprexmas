@@ -6,7 +6,7 @@ Il s'agit du thème vu en classe, un peu pimpé et commenté.
 
 ## Installation du thème
 
-1. Télécharger la  [dernière version](https://github.com/coppee/isfsc-emu2-wordprexmas/releases) du thème.
+1. Télécharger la  [dernière version](https://github.com/coppee/isfsc-emu2-wordprexmas/archive/master.zip) du thème.
 2. Dézipper le fichier
 3. Glisser/Déposer le dossier /wordprexmas dans le dossier /wp-content/themes d'une installation WP
 
