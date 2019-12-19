@@ -2,8 +2,6 @@
 
 Il s'agit du thème vu en classe, un peu pimpé et commenté.
 
-[Voir la démo.](http://xmas.proto.tips/)
-
 ![HoHoHo](github/screenshots/xmas.png)
 
 ## Installation du thème
